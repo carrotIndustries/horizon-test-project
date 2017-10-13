@@ -1,0 +1,16 @@
+{
+    "blocks": [
+        {
+            "block_filename": "top_block.json",
+            "is_top": true,
+            "schematic_filename": "top_sch.json"
+        }
+    ],
+    "board_filename": "board.json",
+    "name": "pic32-eth",
+    "pool_uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6",
+    "title": "PIC32 ethernet thingie",
+    "type": "project",
+    "uuid": "028defc5-16c2-4d32-934a-4fb90bc17608",
+    "vias_directory": "vias"
+}
